@@ -1,4 +1,11 @@
 # profile
+
+Hi 👋 I'm Sekhar, a passionate software developer
+
+Backend-focused Java developer building Spring Boot applications with
+JWT security, relational databases, and real-time features.
+
+
 # 💫 About Me:
 I’m a Java backend developer focused on building real, production-style systems rather than just academic projects.<br><br>I work primarily with Java, Spring Boot, Spring Security, JPA/Hibernate, and PostgreSQL, and I’ve built end-to-end backend applications with authentication, real-time communication, and normalized database design.<br><br>One of my key projects is a real-time 1-1 chat application where I implemented JWT-based stateless authentication, WebSockets using STOMP, message states like sent/delivered/seen, typing indicators, and presence tracking. I also handled deployment using Render, Neon PostgreSQL, and Vercel, so I understand real deployment constraints—not just local setups.<br><br>Alongside development, I actively practice DSA and problem solving, having worked through a large portion of the LeetCode 150 patterns to strengthen my algorithmic thinking.<br><br>Right now, I’m looking for a backend or full-stack role where I can work on real systems, write clean and scalable code, and grow under strong engineering practices.
 
